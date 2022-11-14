@@ -1,0 +1,2 @@
+- npm run prepare
+- node index.js
